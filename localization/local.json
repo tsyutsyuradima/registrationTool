@@ -1,0 +1,72 @@
+{
+    "login":
+    {
+        "en":"Login : ",
+        "ru":"Логин : "
+    },
+    "pass":
+    {
+        "en":"Pass : ",
+        "ru":"Пароль : "
+    },
+    "signIn":
+    {
+        "en":"Sign In : ",
+        "ru":"Вход : "
+    },
+    "signUp":
+    {
+        "en":"Sign Up : ",
+        "ru":"Регистр. : "
+    },
+    "wrongLogin":
+    {
+        "en":"Login or password is not correct : ",
+        "ru":"Логин или пароль неправильни : "
+    },
+    "сonfirmPass":
+    {
+        "en":"Сonfirm Pass :",
+        "ru":"Повторить пароль :"
+    },
+    "firstName":
+    {
+        "en":"First Name :",
+        "ru":"Имя :"
+    },
+    "secondName":
+    {
+        "en":"Second Name :",
+        "ru":"Фамилия :"
+    },
+    "middleName":
+    {
+        "en":"Middle Name :",
+        "ru":"Отчество :"
+    },
+    "sex":
+    {
+        "en":"Sex :",
+        "ru":"Пол :"
+    },
+    "email":
+    {
+        "en":"email :",
+        "ru":"email :"
+    },
+    "phone":
+    {
+        "en":"phone  :",
+        "ru":"тел. :"
+    },
+    "hometown":
+    {
+        "en":"Hometown :",
+        "ru":"Родной город :"
+    },
+    "404NotFound":
+    {
+        "en":"I am so sorry but this page could not be found",
+        "ru":"Страница не найдена"
+    }
+}
